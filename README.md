@@ -6,8 +6,6 @@
 ## **GitHub Stats**
 <br>
 <div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiodeLima-91&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&text_color=FFF&hide_title=true&hide=stars)<br><br>
-
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiodeLima-91&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/><br><br>
 
 ## **My Contributions**

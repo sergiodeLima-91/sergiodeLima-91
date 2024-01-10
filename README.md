@@ -54,7 +54,7 @@
 <a href = "mailto:contato.sergiodelima22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23913?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/s%C3%A9rgio-lima-90a818214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCu2MbrFfiGRBGnGM7aOwo0w" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23910?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCu2MbrFfiGRBGnGM7aOwo0w" target="_blank"><img src="https://img.shields.io/badge/-TWITCH-%23419?style=for-the-badge&logo=twitch&logoColor=white"  target="_blank"></a>
+<a href="https://www.twitch.tv/hunter_titanium_games" target="_blank"><img src="https://img.shields.io/badge/-TWITCH-%23419?style=for-the-badge&logo=twitch&logoColor=white"  target="_blank"></a>
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F0D87&height=120&section=footer"/>
